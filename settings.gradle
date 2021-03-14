@@ -1,0 +1,3 @@
+include ':bitmapConverter'
+include ':app'
+rootProject.name = "Asset Manager"
